@@ -1,0 +1,1 @@
+/home/tajo/CIS410_sci_vis/project2/CMakeFiles/proj2.dir
